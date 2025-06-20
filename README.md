@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-![GamePlan Logo](https://drive.google.com/file/d/1z89NOTR9YIdZQ7PxjMXFpR4_cua_vcRL/view)
+![GamePlan Logo](hhttps://drive.google.com/file/d/1z89NOTR9YIdZQ7PxjMXFpR4_cua_vcRL/view?usp=sharing)
 
 **The Future of Esports Management is Here** 🚀
 
