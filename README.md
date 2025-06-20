@@ -1,4 +1,4 @@
-# 🎮 GamePlan - Esports Manager Dashboard
+<div align="center"># 🎮 GamePlan - Esports Manager Dashboard</div>
 
 <div align="center">
 
