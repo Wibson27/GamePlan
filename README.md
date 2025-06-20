@@ -5,7 +5,6 @@
 </div>
 <div align="center">
 
-![GamePlan Logo](.github/images/GamePlan.png)
 
 **The Future of Esports Management is Here** 🚀
 
@@ -136,11 +135,11 @@ graph TB
     C --> D[⛓️ ICP Blockchain]
     D --> E[🦀 Rust Canister]
     E --> F[💾 Blockchain Storage]
-    
+
     G[🤖 AI Assistant] --> H[📊 Data Processing]
     H --> I[📈 Chart Generation]
     I --> B
-    
+
     J[👨‍💼 Admin] --> K[🛠️ Candid UI]
     K --> E
 ```
@@ -466,7 +465,7 @@ pnpm type-check
 
 ## 🤝 Contributing
 
-We welcome contributions from the esports and Web3 communities! 
+We welcome contributions from the esports and Web3 communities!
 
 ### 🚀 Getting Started
 1. **Fork the repository**
