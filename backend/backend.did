@@ -1,0 +1,18 @@
+type Result =
+ variant {
+   Err: text;
+   Ok: text;
+ };
+type UserRole =
+ variant {
+   Admin;
+   Manager;
+   Unauthorized;
+ };
+service : {
+  add_initial_admin: (principal) -> (Result);
+  add_manager: (principal) -> (Result);
+  get_all_users: () -> (vec record {principal; UserRole}) query;
+  get_user_role: () -> (UserRole) query;
+  remove_user: (principal) -> (Result);
+}

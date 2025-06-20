@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "canisters": {
+    "backend": {
+      "type": "rust",
+      "package": "backend",
+      "candid": "backend/backend.did"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": "frontend/.env.local",
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:4943",
+      "type": "ephemeral"
+    }
+  }
+}
